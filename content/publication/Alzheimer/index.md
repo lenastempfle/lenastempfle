@@ -1,24 +1,29 @@
 ---
-title: 'MINTY: Rule-based Models that Minimize the Need for
-Imputing Features with Missing Values'
+title: 'Predicting progression and cognitive decline in amyloid-positive patients with Alzheimer's disease'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Hákon Valur Dansson
   - admin
-  - Fredrik D. Johansson
+  - Hildur Egilsdóttir
+  - Erik Portelius
+  - Kaj Blennow 
+  - Henrik Zetterberg
+  - Fredrik D Johansson
+  - Alzheimer’s Disease Neuroimaging Initiative (ADNI)
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '23 Nov 2023'
+date: '2021-Sep-6'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '23 Nov 2023'
+publishDate: '2021-Sep-6'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,13 +31,21 @@ publishDate: '23 Nov 2023'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of AISTATS 2024*
+publication: In *Alzheimer's Research & Therapy*
 publication_short: ''
 
-abstract: Rule models are often preferred in prediction tasks with tabular inputs as they can be easily interpreted using natural language and provide predictive performance on par with more complex models. However, most rule models’ predictions are undefined or ambiguous when some inputs are missing, forcing users to rely on statistical imputation models or heuristics like zero imputation, undermining their interpretability. In this work, we propose fitting concise yet precise rule models that learn to avoid relying on features with missing values and therefore limit their reliance on imputation at test time. We develop MINTY, a method that learns rules in the form of disjunctions between variables that act as replacements for each other when one or more is missing. This results in a sparse linear rule model, regularized to have minimal dependence on features with missing values, allowing a trade-off between goodness of fit, interpretability, and robustness to missing values at test time. We demonstrate the value of MINTY in experiments using synthetic and real-world datasets, showing that its predictive performance is comparable or favorable to baselines while reducing reliance on missing features.
+abstract: Background
+In Alzheimer’s disease, amyloid- β (A β) peptides aggregate in the lowering CSF amyloid levels - a key pathological hallmark of the disease. However, lowered CSF amyloid levels may also be present in cognitively unimpaired elderly individuals. Therefore, it is of great value to explain the variance in disease progression among patients with A β pathology.
+Methods
+A cohort of n=2293 participants, of whom n=749 were A β positive, was selected from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database to study heterogeneity in disease progression for individuals with A β pathology. The analysis used baseline clinical variables including demographics, genetic markers, and neuropsychological data to predict how the cognitive ability and AD diagnosis of subjects progressed using statistical models and machine learning. Due to the relatively low prevalence of A β pathology, models fit only to A β-positive subjects were compared to models fit to an extended cohort including subjects without established A β pathology, adjusting for covariate differences between the cohorts.
+Results
+A β pathology status was determined based on the A β42/A β40 ratio. The best predictive model of change in cognitive test scores for A β-positive subjects at the 2-year follow-up achieved an R2 score of 0.388 while the best model predicting adverse changes in diagnosis achieved a weighted F1 score of 0.791. A β-positive subjects declined faster on average than those without A β pathology, but the specific level of CSF A β was not predictive of progression rate. When predicting cognitive score change 4 years after baseline, the best model achieved an R2 score of 0.325 and it was found that fitting models to the extended cohort improved performance. Moreover, using all clinical variables outperformed the best model based only on a suite of cognitive test scores which achieved an R2 score of 0.228.
+Conclusion
+Our analysis shows that CSF levels of A β are not strong predictors of the rate of cognitive decline in A β-positive subjects when adjusting for other variables. Baseline assessments of cognitive function accounts for the majority of variance explained in the prediction of 2-year decline but is insufficient for achieving optimal results in longer-term predictions. Predicting changes both in cognitive test scores and in diagnosis provides multiple perspectives of the progression of potential AD subjects.
+
 
 # Summary. An optional shortened abstract.
-summary: We propose MINTY, a rule-based model that learns to avoid reliance on missing features by using disjunctive rules as replacements, maintaining interpretability and predictive performance while reducing dependence on imputation.
+summary: CSF Aβ levels alone are not strong predictors of cognitive decline in Aβ-positive individuals, but baseline cognitive assessments explain most of the variance in short-term (2-year) predictions. Including additional clinical variables and extending the cohort to Aβ-negative individuals improves model performance, highlighting the complexity of Alzheimer’s disease progression.
 
 #tags:
 #  - Large Language Models
@@ -45,8 +58,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://pubmed.ncbi.nlm.nih.gov/34488882/'
-url_code: ''
+url_pdf: 'https://alzres.biomedcentral.com/articles/10.1186/s13195-021-00886-5'
+url_code: 'https://github.com/Healthy-AI/alzheimers-progression'
 url_dataset: ''
 url_poster: ''
 url_project: ''

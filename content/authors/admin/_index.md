@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Phd Student in Machine Learning
+role: Phd Candidate in Machine Learning
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -54,7 +54,7 @@ interests:
   - Prediction with missing values 
 
 education:
-  - area: PhD in Machine Learning
+  - area: PhD Candidate in Machine Learning
     institution: Chalmers University of Technology, Gothenburg/Sweden
     date_start: 2020-08-01
     date_end: 2025-01-31

@@ -26,6 +26,8 @@ role: Phd Student in Machine Learning
 organizations:
   - name: Chalmers University of Technology
     url: https://www.chalmers.se/
+  - name: Healthy AI Lab
+    url: https://www.healthyai.se/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

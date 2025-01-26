@@ -48,14 +48,14 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6580-3942
 
-Research Interests:
+interests:
   - Machine learning for health care
   - Interpretable machine learning 
   - Prediction with missing values 
 
 education:
   - area: PhD Candidate in Machine Learning
-    institution: Chalmers University of Technology, Gothenburg/Sweden
+    institution: Chalmers University of Technology
     date_start: 2020-08-01
     date_end: 2025-01-31
     summary: |
@@ -67,10 +67,9 @@ education:
     button:
       text: 'Licentiate Thesis'
       url: 'https://research.chalmers.se/en/publication/534869'
-  
 
   - area: MSc Information Engineering and Management
-    institution: Karlsruhe Institute of Technology (KIT), Karlsruhe/Germany
+    institution: Karlsruhe Institute of Technology (KIT)
     date_start: 2017-10-01
     date_end: 2020-07-31
     summary: |
@@ -78,37 +77,12 @@ education:
       
       Thesis title:
       - Time series analysis for the recognition of behavioral parameters in people with dementia  
-
-experience: 
-  - area: PhD Candidate in Machine Learning
-    institution: Chalmers University of Technology, Gothenburg/Sweden
-    date_start: 2020-08-01
-    date_end: 2025-01-31
-    summary: |
-      -Supervised by [Fredrik D. Johansson](https://www.fredjo.com/) and [Devdatt Dubashi](https://sites.google.com/view/devdattdubhashi/home). 
-      - Presented several papers at conferences such as ICML, AISTATS, AAAI, and ML4H, with contributions published in two Alzheimer's disease research journals, while leading multiple research initiatives in collaboration with academic and healthcare partners, resulting in eight peer-reviewed publications in top conference proceedings and journals.
-      - Supervised several master's thesis projects, guiding students through academic research and industry collaborations.
-      - Served as a teaching assistant for multiple courses, including Introduction to Data Science, Research Methods, Causality and Causal Inference, and Design of AI Systems.
-      - Completed advanced coursework in Deep Learning, Software and Cloud Computing, Graphical Models, Bayesian Learning and  Statistical Relational Learning, Artificial Intelligence and Machine Learning, and Causal Inference, developing a strong foundation in cutting-edge AI/ML techniques.
-    button:
-      text: 'Licentiate Thesis'
-      url: 'https://research.chalmers.se/en/publication/534869'
 
   - area: Graduate Student
     institution: Wallenberg AI, Autonomous Systems and Software Program (WASP), Sweden
     date_start: 2020-08-01
     date_end: 2025-01-31
     summary: ""
-
-  - area: MSc Information Engineering and Management
-    institution: Karlsruhe Institute of Technology (KIT), Karlsruhe/Germany
-    date_start: 2017-10-01
-    date_end: 2020-07-31
-    summary: |
-      Final grade: 1.3 (on a scale where 1.0 is the highest)
-      
-      Thesis title:
-      - Time series analysis for the recognition of behavioral parameters in people with dementia  
   
   - area: Visiting Research Student
     institution: MIT - Massachusetts Institute of Technology, Cambridge/USA

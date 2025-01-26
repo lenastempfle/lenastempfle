@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Ph.D. student in the Data Science and AI division at Chalmers University of Technology, I am interested in topics at the intersection of machine learning and healthcare, such as predictions with missing values, time series predictions and causality/causal inference, with the goal of developing interpretable and accurate models to assist with clinical decision-making.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         

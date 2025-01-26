@@ -65,28 +65,24 @@ education:
     button:
       text: 'Licentiate Thesis'
       url: 'https://research.chalmers.se/en/publication/534869'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Information Engineering and Management
+    institution: Karlsruhe Institute of Technology (KIT), Karlsruhe/Germany
+    date_start: 2017-10-01
+    date_end: 2020-07-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      Final grade: 1.3 (on a scale where 1.0 is the highest)
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis title:
+      - Time series analysis for the recognition of behavioral parameters in people with dementia  
+
+
+  - area: BSc Business Management
+    institution: Universität Bayreuth, Bayreuth/Germany
+    date_start: 2013-10-01
+    date_end: 2017-02-28
+    summary: |
+      Specialization: Information Systems and Service Management
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

@@ -67,3 +67,5 @@ sections:
       view: citation
       spacing:
         padding: ['0', '0', '0', '0']
+---
+

@@ -113,17 +113,50 @@ education:
 
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: Institute for Information Infrastructure at KIT
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
+    date_start: 2019-07-01
+    date_end: 2020-07-31
+    summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Research support in data analytics for health care data
+      - Creation and performance of human-computer experiments
+
+  - position: Research Assistant
+    company_name: Institute for Information Systems and Marketing (IISM) and Chair for Information Systems and Service Design at KIT
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-10-01
+    date_end: 2019-01-31
+    summary: |
+      Responsibilities include:
+      - Implementation of a research design online tool  
+      - Teaching assistant for “Information Systems and Digital Health” 
+
+  - position: Research Assistant
+    company_name: Health Care Lab @Karlsruher Service Research Institute (KSRI) and Department of Operations Research
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-11-01
+    date_end: 2020-08-31
+    summary: |
+      Responsibilities include:
+      - Simulating layout planning for hospital emergency rooms using ML  
+      - Organization of the science conference Operational Research Applied to Health Services (ORAHS) 2019  
+
+  - position: Research Assistant
+    company_name: Fraunhofer Institute for Applied Information Technologies (FIT), Competence Centre for Finance and Information Management
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-04-01
+    date_end: 2016-12-31
+    summary: |
+      Responsibilities include:
+      - Support for applications in publicly funded projects (HORIZON 2020)  
+      - Support in research projects in information systems & mobility
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -135,6 +168,10 @@ skills:
         percent: 80
         icon: code-bracket
       - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: R
         description: ''
         percent: 100
         icon: chart-bar
@@ -150,14 +187,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Climbing
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: 🧗‍♀️
+      - name: Painting
         description: ''
         percent: 80
-        icon: camera
+        icon: 🎨
 
 languages:
   - name: German

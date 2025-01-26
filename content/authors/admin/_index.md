@@ -79,7 +79,7 @@ education:
       Thesis title:
       - Time series analysis for the recognition of behavioral parameters in people with dementia  
 
-experience: 
+work: 
   - area: PhD Candidate in Machine Learning
     institution: Chalmers University of Technology, Gothenburg/Sweden
     date_start: 2020-08-01
@@ -140,7 +140,7 @@ experience:
     summary: |
       Specialization: Information Systems and Service Management
 
-work:
+experience:
   - position: Research Assistant
     company_name: Chair for Critical Information Infrastructure at KIT
     company_url: ''

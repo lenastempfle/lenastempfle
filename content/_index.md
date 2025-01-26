@@ -41,7 +41,7 @@ sections:
   - block: markdown
     id: news
     content:
-      title: Recent News
+      title: 📣 Recent News
       text: |
         - **[Jan 2025]** Giving a talk at the Traumabase Annual Meeting on a user study with the clinician network, exploring interpretable ML for missing values.
         - **[Nov 2024]** My work on [Expert Study on Interpretable Machine Learning Models with Missing Values](https://arxiv.org/abs/2411.09591) has been accepted to ML4H as a workshop paper. I co-authored the paper [Representing Patient History for Interpretable Policy Modeling](https://arxiv.org/abs/2412.07895), also accepted to ML4H 2024.
@@ -57,7 +57,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: 🤖 Recent Publications
       text: ''
       filters:
         folders:

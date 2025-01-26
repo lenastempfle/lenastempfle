@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lena test Stempfle
+title: Lena Stempfle
 
 # Name pronunciation (optional)
 name_pronunciation: 

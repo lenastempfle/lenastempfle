@@ -84,9 +84,7 @@ education:
       
       Thesis title:
       - Time series analysis for the recognition of behavioral parameters in people with dementia  
-
-
-Experience:
+  
   - area: Visiting Research Student
       institution: MIT - Massachusetts Institute of Technology, Cambridge/USA
       date_start: 2024-08-15

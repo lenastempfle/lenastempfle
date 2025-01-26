@@ -5,11 +5,11 @@ authors:
 - Ashkan Panahi
 - Fredrik D. Johansson
 
-date: "2023-06-26"
+date: 2023-06-26
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-26"
+publishDate: 2023-06-26
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

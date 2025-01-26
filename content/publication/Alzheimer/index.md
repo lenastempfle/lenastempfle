@@ -23,7 +23,7 @@ publishDate: '23 Nov 2023'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of AISTATS 2024*
@@ -45,8 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2311.14108'
-url_code: 'https://github.com/Healthy-AI/minty'
+url_pdf: 'https://pubmed.ncbi.nlm.nih.gov/34488882/'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

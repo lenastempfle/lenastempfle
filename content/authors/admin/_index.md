@@ -55,7 +55,7 @@ education:
   - area: PhD in Machine Learning
     institution: Chalmers University of Technology, Gothenburg/Sweden
     date_start: 2020-08-01
-    date_end: 2020-08-01
+    date_end: 2025-01-31
     summary: |
       -Supervised by [Fredrik Johansoon](https://www.fredjo.com/) and Devdatt Dubashi. 
       - Presented several papers at conferences such as ICML, AISTATS, AAAI, and ML4H, with contributions published in two Alzheimer's disease research journals, while leading multiple research initiatives in collaboration with academic and healthcare partners, resulting in eight peer-reviewed publications in top conference proceedings and journals.
@@ -65,28 +65,53 @@ education:
     button:
       text: 'Licentiate Thesis'
       url: 'https://research.chalmers.se/en/publication/534869'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Graduate Student
+    institution: Wallenberg AI, Autonomous Systems and Software Program (WASP), Sweden
+    date_start: 2020-08-01
+    date_end: 2025-01-31
+    summary: ""
+  
+  - area: Visiting Research Student
+    institution: MIT - Massachusetts Institute of Technology, Cambridge/USA
+    date_start: 2024-08-15
+    date_end: 2024-12-31
     summary: |
-      GPA: 3.8/4.0
+      - Memorization in foundation models in health care 
+      - Human-LLM Parity 
+      - Predicting health outcomes from environmental and socioeconomic data
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Visiting Research Student
+    institution: PreMeDICaL Inria-Inserm team Montpellier, Montpellier/France
+    date_start: 2024-04-01
+    date_end: 2024-05-31
     summary: |
-      GPA: 3.4/4.0
+      - Predictions under missing values in the context of TraumaBase  
+      - User study to evaluate interpretable machine learning and missing values 
+
+  - area: MSc Information Engineering and Management
+    institution: Karlsruhe Institute of Technology (KIT), Karlsruhe/Germany
+    date_start: 2017-10-01
+    date_end: 2020-07-31
+    summary: |
+      Final grade: 1.3 (on a scale where 1.0 is the highest)
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis title:
+      - Time series analysis for the recognition of behavioral parameters in people with dementia  
+
+  - area: Erasmus Exchange Program in Computer Science
+    institution: Chalmers University of Technology, Gothenburg/Sweden
+    date_start: 2019-01-01
+    date_end: 2019-06-30
+    summary: ""
+
+  - area: BSc Business Management
+    institution: Universität Bayreuth, Bayreuth/Germany
+    date_start: 2013-10-01
+    date_end: 2017-02-28
+    summary: |
+      Specialization: Information Systems and Service Management
+
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

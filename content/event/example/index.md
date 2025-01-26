@@ -1,19 +1,20 @@
 ---
-title: Example Talk
+title: Traumabase Annual Meeting 
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Traumabase Annual Meeting 
+event_url: https://www.traumabase.eu/en_US
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+#location: Hugo Blox Builder HQ
+#address:
+  #street: 450 Serra Mall
+  #city: Stanford
+  #region: CA
+  #postcode: '94305'
+  #country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Traumabase Annual Meeting 
+abstract: I will present our work on a user study on interpretable ML and missing values. 
+The work was published at ML4H as a workshop paper in the evaluation & application track. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -170,7 +170,7 @@ skills:
       - name: Data Science
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: 💻
       - name: R
         description: ''
         percent: 100
@@ -190,11 +190,11 @@ skills:
       - name: Climbing
         description: ''
         percent: 100
-        icon: 🧗‍♀️
+        icon: Mountain
       - name: Painting
         description: ''
         percent: 80
-        icon: 🎨
+        icon: Painting
 
 languages:
   - name: German
@@ -208,14 +208,14 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2020-11-11'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the fundamental principles of neural networks and deep learning, gaining insight into the key technological advancements fueling its growth. By the end, I was proficient in building, training, and applying fully connected deep neural networks, implementing efficient vectorized computations, identifying crucial architectural parameters, and leveraging deep learning for practical applications.
+#awards:
+  #- title: Neural Networks and Deep Learning
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    #date: '2020-11-11'
+    #awarder: Coursera
+    #icon: coursera
+    #summary: |
+      #I studied the fundamental principles of neural networks and deep learning, gaining insight into the key technological advancements fueling its growth. By the end, I was proficient in building, training, and applying fully connected deep neural networks, implementing efficient vectorized computations, identifying crucial architectural parameters, and leveraging deep learning for practical applications.
   
 ---
 

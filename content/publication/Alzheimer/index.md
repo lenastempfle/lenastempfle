@@ -1,11 +1,11 @@
 ---
-title: 'Predicting progression and cognitive decline in amyloid-positive patients with Alzheimer's disease'
+title: "Predicting progression and cognitive decline in amyloid-positive patients with Alzheimer's disease"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Hákon Valur Dansson
+  - "Hákon Valur Dansson"
   - admin
   - Hildur Egilsdóttir
   - Erik Portelius
@@ -35,16 +35,16 @@ publication: In *Alzheimer's Research and Therapy*
 publication_short: ''
 
 abstract: |
-**Background**
+Background:
 In Alzheimer’s disease, amyloid-β (Aβ) peptides aggregate in the lowering CSF amyloid levels - a key pathological hallmark of the disease. However, lowered CSF amyloid levels may also be present in cognitively unimpaired elderly individuals. Therefore, it is of great value to explain the variance in disease progression among patients with Aβ pathology.
 
-**Methods**
+Methods:
 A cohort of n=2293 participants, of whom n=749 were Aβ positive, was selected from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database to study heterogeneity in disease progression for individuals with Aβ pathology. The analysis used baseline clinical variables including demographics, genetic markers, and neuropsychological data to predict how the cognitive ability and AD diagnosis of subjects progressed using statistical models and machine learning. Due to the relatively low prevalence of Aβ pathology, models fit only to Aβ-positive subjects were compared to models fit to an extended cohort including subjects without established Aβ pathology, adjusting for covariate differences between the cohorts.
 
-**Results**
+Results:
 Aβ pathology status was determined based on the A β42/A β40 ratio. The best predictive model of change in cognitive test scores for Aβ-positive subjects at the 2-year follow-up achieved an R2 score of 0.388 while the best model predicting adverse changes in diagnosis achieved a weighted F1 score of 0.791. A β-positive subjects declined faster on average than those without Aβ pathology, but the specific level of CSF Aβ was not predictive of progression rate. When predicting cognitive score change 4 years after baseline, the best model achieved an R2 score of 0.325 and it was found that fitting models to the extended cohort improved performance. Moreover, using all clinical variables outperformed the best model based only on a suite of cognitive test scores which achieved an R2 score of 0.228.
 
-**Conclusion**
+Conclusion:
 Our analysis shows that CSF levels of Aβ are not strong predictors of the rate of cognitive decline in Aβ-positive subjects when adjusting for other variables. Baseline assessments of cognitive function accounts for the majority of variance explained in the prediction of 2-year decline but is insufficient for achieving optimal results in longer-term predictions. Predicting changes both in cognitive test scores and in diagnosis provides multiple perspectives of the progression of potential AD subjects.
 
 
@@ -84,8 +84,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - []
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

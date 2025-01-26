@@ -5,7 +5,6 @@ type: landing
 
 design:
   spacing: "5rem"
----
 
 sections:
   - block: resume-biography-3

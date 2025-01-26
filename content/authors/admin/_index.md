@@ -55,7 +55,7 @@ education:
   - area: PhD in Machine Learning
     institution: Chalmers University of Technology, Gothenburg/Sweden
     date_start: 2020-08-01
-    date_end: present
+    date_end: 2020-08-01
     summary: |
       -Supervised by [Fredrik Johansoon](https://www.fredjo.com/) and Devdatt Dubashi. 
       - Presented several papers at conferences such as ICML, AISTATS, AAAI, and ML4H, with contributions published in two Alzheimer's disease research journals, while leading multiple research initiatives in collaboration with academic and healthcare partners, resulting in eight peer-reviewed publications in top conference proceedings and journals.

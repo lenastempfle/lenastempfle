@@ -67,11 +67,7 @@ education:
     button:
       text: 'Licentiate Thesis'
       url: 'https://research.chalmers.se/en/publication/534869'
-  - area: Graduate Student
-    institution: Wallenberg AI, Autonomous Systems and Software Program (WASP), Sweden
-    date_start: 2020-08-01
-    date_end: 2025-01-31
-    summary: ""
+  
 
   - area: MSc Information Engineering and Management
     institution: Karlsruhe Institute of Technology (KIT), Karlsruhe/Germany
@@ -97,6 +93,7 @@ experience:
     button:
       text: 'Licentiate Thesis'
       url: 'https://research.chalmers.se/en/publication/534869'
+
   - area: Graduate Student
     institution: Wallenberg AI, Autonomous Systems and Software Program (WASP), Sweden
     date_start: 2020-08-01
@@ -142,7 +139,6 @@ experience:
     date_end: 2017-02-28
     summary: |
       Specialization: Information Systems and Service Management
-
 
 work:
   - position: Research Assistant

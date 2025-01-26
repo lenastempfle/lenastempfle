@@ -79,7 +79,7 @@ education:
       Thesis title:
       - Time series analysis for the recognition of behavioral parameters in people with dementia  
 
-work: 
+experience: 
   - area: PhD Candidate in Machine Learning
     institution: Chalmers University of Technology, Gothenburg/Sweden
     date_start: 2020-08-01
@@ -140,7 +140,7 @@ work:
     summary: |
       Specialization: Information Systems and Service Management
 
-experience:
+work:
   - position: Research Assistant
     company_name: Chair for Critical Information Infrastructure at KIT
     company_url: ''
@@ -258,14 +258,17 @@ skills:
         description: ''
         percent: 60
         icon: mountain
+        icon_pack: emoji
       - name: Climbing
         description: ''
         percent: 100
         icon: woman-climbing
+        icon_pack: emoji
       - name: Painting
         description: ''
         percent: 80
         icon: artist-palette
+        icon_pack: emoji
 
 languages:
   - name: German
@@ -274,23 +277,10 @@ languages:
     percent: 100
   - name: Swedish, Spanish, French
     percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
-  #- title: Neural Networks and Deep Learning
-    #url: https://www.coursera.org/learn/neural-networks-deep-learning
-    #date: '2020-11-11'
-    #awarder: Coursera
-    #icon: coursera
-    #summary: |
-      #I studied the fundamental principles of neural networks and deep learning, gaining insight into the key technological advancements fueling its growth. By the end, I was proficient in building, training, and applying fully connected deep neural networks, implementing efficient vectorized computations, identifying crucial architectural parameters, and leveraging deep learning for practical applications.
   
 ---
 
 ## About Me
-I am a final-year PhD candidate in machine learning at Chalmers University of Technology, specializing in interpretable models for clinical decision-making. My researach interests lie at the intersection of machine learning and healthcare, such as predictions with missing values, time series predictions and causality/causal inference, with the goal of developing interpretable and accurate models to assist with clinical decision-making. As I approach graduation in summer 2025, I am eager to apply my expertise in machine learning and data analysis to industry, contributing to the design of human-centered AI systems that create meaningful real-world impact.
+I am a final-year PhD candidate in machine learning at Chalmers University of Technology, specializing in interpretable models for clinical decision-making. My researach interests lie at the intersection of machine learning and healthcare, such as predictions with missing values, and time series predictions, with the goal of developing interpretable and accurate models to assist with clinical decision-making. As I approach graduation in summer 2025, I am eager to apply my expertise in machine learning and data analysis to industry, contributing to the design of human-centered AI systems that create meaningful real-world impact.
 
 

@@ -29,31 +29,7 @@ publication_types: ['paper-conference']
 publication: In *Proceedings of AISTATS 2024*
 publication_short: ''
 
-abstract: Rule models are often preferred in prediction tasks
-with tabular inputs as they can be easily interpreted
-using natural language and provide predictive per-
-formance on par with more complex models. How-
-ever, most rule models’ predictions are undefined
-or ambiguous when some inputs are missing, forc-
-ing users to rely on statistical imputation models
-or heuristics like zero imputation, undermining the
-interpretability of the models. In this work, we
-propose fitting concise yet precise rule models that
-learn to avoid relying on features with missing val-
-ues and, therefore, limit their reliance on imputa-
-tion at test time. We develop MINTY, a method that
-learns rules in the form of disjunctions between vari-
-ables that act as replacements for each other when
-one or more is missing. This results in a sparse
-linear rule model, regularized to have small depen-
-dence on features with missing values, that allows
-a trade-off between goodness of fit, interpretabil-
-ity, and robustness to missing values at test time.
-We demonstrate the value of MINTY in experiments
-using synthetic and real-world data sets and find
-its predictive performance comparable or favorable
-to baselines, with smaller reliance on features with
-missing values.
+abstract: Rule models are often preferred in prediction tasks with tabular inputs as they can be easily interpreted using natural language and provide predictive performance on par with more complex models. However, most rule models’ predictions are undefined or ambiguous when some inputs are missing, forcing users to rely on statistical imputation models or heuristics like zero imputation, undermining their interpretability. In this work, we propose fitting concise yet precise rule models that learn to avoid relying on features with missing values and therefore limit their reliance on imputation at test time. We develop MINTY, a method that learns rules in the form of disjunctions between variables that act as replacements for each other when one or more is missing. This results in a sparse linear rule model, regularized to have minimal dependence on features with missing values, allowing a trade-off between goodness of fit, interpretability, and robustness to missing values at test time. We demonstrate the value of MINTY in experiments using synthetic and real-world datasets, showing that its predictive performance is comparable or favorable to baselines while reducing reliance on missing features.
 
 # Summary. An optional shortened abstract.
 summary: We propose MINTY, a rule-based model that learns to avoid reliance on missing features by using disjunctive rules as replacements, maintaining interpretability and predictive performance while reducing dependence on imputation.

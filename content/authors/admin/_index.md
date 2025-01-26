@@ -237,15 +237,15 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: python
       - name: Data Science
         description: ''
         percent: 100
-        icon: 💻
+        icon: chart-bar
       - name: R
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 40
@@ -257,15 +257,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: mountain
       - name: Climbing
         description: ''
         percent: 100
-        icon: Mountain
+        icon: woman-climbing
       - name: Painting
         description: ''
         percent: 80
-        icon: Painting
+        icon: artist-palette
 
 languages:
   - name: German

@@ -236,12 +236,12 @@ skills:
       - name: Climbing
         description: ''
         percent: 100
-        icon: woman-climbing
+        icon: 🧗‍♀️
         icon_pack: emoji
       - name: Painting
         description: ''
         percent: 80
-        icon: artist-palette
+        icon: 🎨
         icon_pack: emoji
 
 languages:

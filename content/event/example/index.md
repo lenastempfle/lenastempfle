@@ -2,9 +2,9 @@
 title: Traumabase Annual Meeting 
 
 event: Traumabase Annual Meeting 
-event_url: https://www.traumabase.eu/en_US
+event_url: https://example.org
 
-#location: Hugo Blox Builder HQ
+location: Paris
 #address:
   #street: 450 Serra Mall
   #city: Stanford
@@ -12,9 +12,8 @@ event_url: https://www.traumabase.eu/en_US
   #postcode: '94305'
   #country: United States
 
-summary: Traumabase Annual Meeting 
-abstract: I will present our work on a user study on interpretable ML and missing values. 
-The work was published at ML4H as a workshop paper in the evaluation & application track. 
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'I will present our work a user study with clinians from the traumabase network on interpretable machine learning models and mising values. '
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

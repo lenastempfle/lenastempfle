@@ -52,7 +52,7 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['5', '0', '5', '0']
+        padding: ['0', '0', '0', '0']
 
   - block: collection
     id: publications

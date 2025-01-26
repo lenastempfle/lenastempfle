@@ -48,7 +48,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6580-3942
 
-interests:
+Research Interests:
   - Machine learning for health care
   - Interpretable machine learning 
   - Prediction with missing values 

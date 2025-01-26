@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Lena Stempfle
+title: Lena kjljl
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Lena
-last_name: Stempfle
+last_name: Skjljlj
 
 # Status emoji
 status:

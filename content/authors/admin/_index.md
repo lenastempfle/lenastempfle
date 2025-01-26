@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Lena kjljl
+title: Lena Stempfle
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Lena
-last_name: Skjljlj
+last_name: Stempfle
 
 # Status emoji
 status:
@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: "mailto:stempfle@chalmers.se"
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+    #url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+    #url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/lenastempfle
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/lena-stempfle-5a03a5173/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=U5vzdc4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6580-3942
 
 interests:
   - Machine learning for health care
@@ -142,11 +142,11 @@ skills:
         icon: camera
 
 languages:
+  - name: German
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Swedish, Spanish, French
     percent: 25
 
 # Awards.
@@ -156,11 +156,11 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '2020-11-11'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I studied the fundamental principles of neural networks and deep learning, gaining insight into the key technological advancements fueling its growth. By the end, I was proficient in building, training, and applying fully connected deep neural networks, implementing efficient vectorized computations, identifying crucial architectural parameters, and leveraging deep learning for practical applications.
   
 ---
 

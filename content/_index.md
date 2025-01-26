@@ -43,7 +43,7 @@ sections:
     content:
       title: 📣 Recent News
       text: |
-        - **[Jan 2025]** Giving a talk at the Traumabase Annual Meeting on a user study with the clinician network, exploring interpretable ML for missing values.
+        - **[Jan 2025]** I am giving a talk at the Traumabase Annual Meeting on a user study with the clinician network, exploring interpretable ML for missing values.
         - **[Nov 2024]** My work on [Expert Study on Interpretable Machine Learning Models with Missing Values](https://arxiv.org/abs/2411.09591) has been accepted to ML4H as a workshop paper. I co-authored the paper [Representing Patient History for Interpretable Policy Modeling](https://arxiv.org/abs/2412.07895), also accepted to ML4H 2024.
         - **[Apr 2024]** My paper on [MINTY: Rule-based Models that Minimize the Need for Imputing Features with Missing Values](https://proceedings.mlr.press/v238/stempfle24a/stempfle24a.pdf) has been accepted to AISTATS.
         - **[Jun 2023]** My paper on [Learning Replacement Variables in Interpretable Rule-based Models](https://openreview.net/pdf?id=71osQuRCfi) has been accepted to the 3rd Workshop on Interpretable Machine Learning in Healthcare (IMLH).

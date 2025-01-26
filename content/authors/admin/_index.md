@@ -6,7 +6,7 @@ title: Lena Stempfle
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Lena test
+first_name: Lena test1
 last_name: Stempfle
 
 # Status emoji

@@ -115,15 +115,26 @@ education:
 
 work:
   - position: Research Assistant
-    company_name: Institute for Information Infrastructure at KIT
+    company_name: Chair for Critical Information Infrastructure at KIT
     company_url: ''
     company_logo: ''
     date_start: 2019-07-01
     date_end: 2020-07-31
     summary: |
       Responsibilities include:
-      - Research support in data analytics for health care data
-      - Creation and performance of human-computer experiments
+      - Publication of a scientific paper on data analytics in healthcare
+      - Design and execution of scientific experiments
+
+  - position: Research Assistant
+    company_name: Karlsruhe Service Research Institute (KSRI) and Chair of Discrete Optimization at KIT
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-11-01
+    date_end: 2020-08-31
+    summary: |
+      Responsibilities include:
+      - Simulation-based layout planning for the emergency department of a regional hospital using data analytics
+      - Co-organization of the OHRAS 2019 scientific conference
 
   - position: Research Assistant
     company_name: Institute for Information Systems and Marketing (IISM) and Chair for Information Systems and Service Design at KIT
@@ -133,30 +144,64 @@ work:
     date_end: 2019-01-31
     summary: |
       Responsibilities include:
-      - Implementation of a research design online tool  
-      - Teaching assistant for “Information Systems and Digital Health” 
+      - Conceptual development and implementation of an online tool  
+      - Assistance in preparing lecture slides
 
-  - position: Research Assistant
-    company_name: Health Care Lab @Karlsruher Service Research Institute (KSRI) and Department of Operations Research
+  - position: Intern - Digital Transformation
+    company_name: Mücke, Sturm & Company GmbH, Munich
     company_url: ''
     company_logo: ''
-    date_start: 2017-11-01
-    date_end: 2020-08-31
+    date_start: 2017-06-01
+    date_end: 2017-09-30
     summary: |
       Responsibilities include:
-      - Simulating layout planning for hospital emergency rooms using ML  
-      - Organization of the science conference Operational Research Applied to Health Services (ORAHS) 2019  
+      - Development of a digital strategy for a private health insurance company
+      - Conceptualization of digital assistants for the healthcare sector
 
-  - position: Research Assistant
-    company_name: Fraunhofer Institute for Applied Information Technologies (FIT), Competence Centre for Finance and Information Management
+  - position: Intern - Central Project Portfolio Management
+    company_name: Allianz Beratungs- und Vertriebsgesellschaft, Unterföhring
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-01-01
+    date_end: 2017-04-30
+    summary: |
+      Responsibilities include:
+      - Optimization and implementation of central project portfolio management
+      - Support in project cost reforecasting
+
+  - position: Intern - Controlling and Financial Accounting
+    company_name: Lebenshilfe Donau Ries e.V., Nördlingen
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-08-01
+    date_end: 2015-09-30
+    summary: |
+      Responsibilities include:
+      - Concept development for building management
+      - Assistance in drafting the 2014 annual financial report
+
+  - position: Student Assistant
+    company_name: Fraunhofer Institute for Applied Information Technology (FIT), Core Competence Center for Finance and Information Management, Bayreuth
     company_url: ''
     company_logo: ''
     date_start: 2015-04-01
     date_end: 2016-12-31
     summary: |
       Responsibilities include:
-      - Support for applications in publicly funded projects (HORIZON 2020)  
-      - Support in research projects in information systems & mobility
+      - Support for publicly funded projects
+      - Development of coaching concepts
+
+  - position: Intern - Audit and Tax
+    company_name: KPMG AG Wirtschaftsprüfungsgesellschaft, Munich
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-02-01
+    date_end: 2015-03-31
+    summary: |
+      Responsibilities include:
+      - Audit of 2014 annual reports
+      - Conducting a benchmark analysis
+
 
 
 # Skills

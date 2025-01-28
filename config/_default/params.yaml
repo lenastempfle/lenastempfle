@@ -58,8 +58,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  education_count: 2  # Limit education to 2 items
-  experience_count: 0  # Show all experience items
+
+education_count: 2  # Limit education to 2 items
+experience_count: 0  # Show all experience items
 
 # Sponsorship
 i_am_a_sponsor: true

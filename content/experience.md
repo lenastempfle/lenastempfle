@@ -11,8 +11,7 @@ sections:
     title: 'Work Experience'
     content:
       username: admin
-      filters:
-        type: work
+      only: work  # Ensures ONLY work experience appears
     design:
       date_format: 'January 2006'
 
@@ -20,8 +19,7 @@ sections:
     title: 'Education'
     content:
       username: admin
-      filters:
-        type: full_education
+      only: full_education  # Ensures ONLY education appears
     design:
       date_format: 'January 2006'
 ---

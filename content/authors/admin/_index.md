@@ -77,7 +77,23 @@ education:
       
       Thesis title:
       - Time series analysis for the recognition of behavioral parameters in people with dementia  
+      
+  - area: Visiting Research Student
+    institution: MIT - Massachusetts Institute of Technology, Cambridge/USA
+    date_start: 2024-08-15
+    date_end: 2024-12-31
+    summary: |
+      - Memorization in foundation models in health care 
+      - Human-LLM Parity 
+      - Predicting health outcomes from environmental and socioeconomic data
 
+  - area: Visiting Research Student
+    institution: PreMeDICaL Inria-Inserm team Montpellier, Montpellier/France
+    date_start: 2024-04-01
+    date_end: 2024-05-31
+    summary: |
+      - Predictions under missing values in the context of TraumaBase  
+      - User study to evaluate interpretable machine learning and missing values 
 
 work:
   - position: Research Assistant

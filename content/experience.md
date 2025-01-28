@@ -11,15 +11,17 @@ sections:
     title: 'Work Experience'
     content:
       username: admin
+    filters:
+      type: work  # Ensures ONLY work experience appears
     design:
       date_format: 'January 2006'
-      show_education: false  # Ensures ONLY work appears
 
   - block: resume-experience
     title: 'Education'
     content:
       username: admin
+    filters:
+      type: full_education  # Ensures ONLY education appears
     design:
       date_format: 'January 2006'
-      show_work: false  # Ensures ONLY education appears
 ---

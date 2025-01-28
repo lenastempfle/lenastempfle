@@ -6,16 +6,21 @@ type: landing
 design:
   spacing: '5rem'
 
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
   - block: resume-experience
+    title: 'Work Experience'
     content:
       username: admin
+      work: true  # Only show work experience
     design:
-      # Hugo date format
       date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: true
+
+  - block: resume-experience
+    title: 'Education'
+    content:
+      username: admin
+      full_education: true  # Show all education entries
+    design:
+      date_format: 'January 2006'
 ---
+

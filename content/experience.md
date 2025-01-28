@@ -21,7 +21,7 @@ sections:
     content:
       username: admin
     filters:
-      type: full_education  # Ensures ONLY education appears
+      type: education  # Ensures ONLY education appears
     design:
       date_format: 'January 2006'
 ---

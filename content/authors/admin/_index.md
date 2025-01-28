@@ -78,43 +78,6 @@ education:
       Thesis title:
       - Time series analysis for the recognition of behavioral parameters in people with dementia  
 
-full_education:    
-  - area: Graduate Student
-    institution: Wallenberg AI, Autonomous Systems and Software Program (WASP), Sweden
-    date_start: 2020-08-01
-    date_end: 2025-01-31
-    company_url: 'https://wasp-sweden.org'
-    summary: ""
-  
-  - area: Visiting Research Student
-    institution: MIT - Massachusetts Institute of Technology, Cambridge/USA
-    date_start: 2024-08-15
-    date_end: 2024-12-31
-    summary: |
-      - Memorization in foundation models in health care 
-      - Human-LLM Parity 
-      - Predicting health outcomes from environmental and socioeconomic data
-
-  - area: Visiting Research Student
-    institution: PreMeDICaL Inria-Inserm team Montpellier, Montpellier/France
-    date_start: 2024-04-01
-    date_end: 2024-05-31
-    summary: |
-      - Predictions under missing values in the context of TraumaBase  
-      - User study to evaluate interpretable machine learning and missing values 
-
-  - area: Erasmus Exchange Program in Computer Science
-    institution: Chalmers University of Technology, Gothenburg/Sweden
-    date_start: 2019-01-01
-    date_end: 2019-06-30
-    summary: ""
-
-  - area: BSc Business Management
-    institution: Universität Bayreuth, Bayreuth/Germany
-    date_start: 2013-10-01
-    date_end: 2017-02-28
-    summary: |
-      Specialization: Information Systems and Service Management
 
 work:
   - position: Research Assistant

@@ -51,7 +51,7 @@ profiles:
 interests:
   - Machine learning for health care
   - Interpretable machine learning 
-  - Prediction with missing values 
+  - Predictions under missing values at test time
 
 education:
   - area: PhD Candidate in Machine Learning
@@ -77,7 +77,7 @@ education:
       
       Thesis title:
       - Time series analysis for the recognition of behavioral parameters in people with dementia  
-      
+
 full_education:    
   - area: Graduate Student
     institution: Wallenberg AI, Autonomous Systems and Software Program (WASP), Sweden

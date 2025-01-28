@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Lena Stempfle's personal website'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -58,6 +58,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  education_count: 2  # Limit education to 2 items
+  experience_count: 0  # Show all experience items
 
 # Sponsorship
 i_am_a_sponsor: true

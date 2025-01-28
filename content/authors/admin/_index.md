@@ -51,7 +51,7 @@ profiles:
 interests:
   - Machine learning for health care
   - Interpretable machine learning 
-  - Predictions under missing values at test time
+  - Predictions under missing values 
 
 education:
   - area: PhD Candidate in Machine Learning
@@ -77,7 +77,7 @@ education:
       
       Thesis title:
       - Time series analysis for the recognition of behavioral parameters in people with dementia  
-      
+
   - area: Visiting Research Student
     institution: MIT - Massachusetts Institute of Technology, Cambridge/USA
     date_start: 2024-08-15

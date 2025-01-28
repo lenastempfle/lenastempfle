@@ -35,18 +35,12 @@ profiles:
   - icon: at-symbol
     url: "mailto:stempfle@chalmers.se"
     label: E-mail Me
-  #- icon: brands/x
-    #url: https://twitter.com/GetResearchDev
-  #- icon: brands/instagram
-    #url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/lenastempfle
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lena-stempfle-5a03a5173/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=U5vzdc4AAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-6580-3942
 
 interests:
   - Machine learning for health care

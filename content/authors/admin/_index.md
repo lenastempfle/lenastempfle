@@ -56,13 +56,13 @@ education:
     summary: |
       - Supervised by [Marzyeh Ghassemi](https://www.csail.mit.edu/person/marzyeh-ghassemi). 
       - Research on foundation model evaluation, multimodal learning from longitudinal and wearable health data, and scalable AI methods for biomedical applications, with a focus on reliable and trustworthy AI, clinically grounded evaluation, and privacy and memorization risks in foundation models.
-      - I am happy to work with UROPs and other students, and I welcome interdisciplinary collaborations across computer science, law, medicine, and with different actors across the healthcare sector.   Please add a description or high-level outline of your project idea to your inquiry. 
+      - I am happy to work with UROPs and other students, and I welcome interdisciplinary collaborations across computer science, law, medicine, and with different actors across the healthcare sector. Please add a description or high-level outline of your project idea to your inquiry. 
 
   - area: PhD Candidate in Machine Learning
     institution: Chalmers University of Technology
     date_start: 2020-08-01
     date_end: 2025-01-31
-    summary: |
+    summary:
       - Supervised by [Fredrik D. Johansson](https://www.fredjo.com/) and [Devdatt Dubashi](https://sites.google.com/view/devdattdubhashi/home). 
       - Presented several papers at conferences such as ICML, AISTATS, AAAI, and ML4H, with contributions published in two Alzheimer's disease research journals, while leading multiple research initiatives in collaboration with academic and healthcare partners, resulting in eight peer-reviewed publications in top conference proceedings and journals.
       - Supervised several master's thesis projects, guiding students through academic research and industry collaborations.
@@ -72,7 +72,7 @@ education:
       text: 'Licentiate Thesis'
       url: 'https://research.chalmers.se/en/publication/534869'
 
-  - area: MSc Information Engineering and Management
+  - area: M.Sc. Information Engineering and Management
     institution: Karlsruhe Institute of Technology (KIT)
     date_start: 2017-10-01
     date_end: 2020-07-31

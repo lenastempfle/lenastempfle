@@ -26,7 +26,7 @@ organizations:
   - name: Massachusetts Institute of Technology
     url: https://www.mit.edu/
   - name: Healthy ML Lab
-    url: [https://www.healthyai.se/](https://healthyml.org)
+    url: https://healthyml.org
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -43,10 +43,23 @@ profiles:
 
 interests:
   - Machine learning for health care
-  - Interpretable machine learning 
-  - Predictions under missing values 
+  - Interpretable AI
+  - Predictions under missing values
+  - Foundation Model Evaluation
+  - Multimodal Learning
+  - Causal Inference
 
 education:
+  - area: Postdoctoral Researcher 
+    institution: Massachusetts Institute of Technology (MIT)
+    date_start: 2025-08-01
+    summary: |
+    - Supervised by [Marzyeh Ghassemi](https://www.csail.mit.edu/person/marzyeh-ghassemi). 
+    - Research on foundation model evaluation, multimodal learning from longitudinal and wearable health data, and scalable AI methods for biomedical applications, with a focus on reliable and     trustworthy AI, clinically grounded evaluation, and privacy and memorization risks in foundation models.
+  
+  I am happy to work with UROPs and other students, and I welcome interdisciplinary collaborations across computer science, law, medicine, and with different actors across the healthcare sector.
+  }{MIT-Logo.png}{logo.png}
+
   - area: PhD Candidate in Machine Learning
     institution: Chalmers University of Technology
     date_start: 2020-08-01
@@ -66,8 +79,6 @@ education:
     date_start: 2017-10-01
     date_end: 2020-07-31
     summary: |
-      Final grade: 1.3 (on a scale where 1.0 is the highest)
-      
       Thesis title:
       - Time series analysis for the recognition of behavioral parameters in people with dementia  
 
@@ -141,41 +152,9 @@ work:
     date_end: 2017-04-30
     summary: |
       Responsibilities include:
-      - Optimization and implementation of central project portfolio management
+      - Optimization and implementation of the central project portfolio management
       - Support in project cost reforecasting
 
-  - position: Intern - Controlling and Financial Accounting
-    company_name: Lebenshilfe Donau Ries e.V., Nördlingen
-    company_url: ''
-    company_logo: ''
-    date_start: 2015-08-01
-    date_end: 2015-09-30
-    summary: |
-      Responsibilities include:
-      - Concept development for building management
-      - Assistance in drafting the 2014 annual financial report
-
-  - position: Student Assistant
-    company_name: Fraunhofer Institute for Applied Information Technology (FIT), Core Competence Center for Finance and Information Management, Bayreuth
-    company_url: ''
-    company_logo: ''
-    date_start: 2015-04-01
-    date_end: 2016-12-31
-    summary: |
-      Responsibilities include:
-      - Support for publicly funded projects
-      - Development of coaching concepts
-
-  - position: Intern - Audit and Tax
-    company_name: KPMG AG Wirtschaftsprüfungsgesellschaft, Munich
-    company_url: ''
-    company_logo: ''
-    date_start: 2015-02-01
-    date_end: 2015-03-31
-    summary: |
-      Responsibilities include:
-      - Audit of 2014 annual reports
-      - Conducting a benchmark analysis
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

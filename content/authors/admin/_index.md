@@ -20,14 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Phd Candidate in Machine Learning
-
+role: Postdoc @ MIT 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Chalmers University of Technology
-    url: https://www.chalmers.se/
-  - name: Healthy AI Lab
-    url: https://www.healthyai.se/
+  - name: Massachusetts Institute of Technology
+    url: https://www.mit.edu/
+  - name: Healthy ML Lab
+    url: [https://www.healthyai.se/](https://healthyml.org)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -230,6 +229,6 @@ languages:
 ---
 
 ## About Me
-I am a final-year PhD candidate in machine learning at Chalmers University of Technology, specializing in interpretable models for clinical decision-making. My researach interests lie at the intersection of machine learning and healthcare, such as predictions with missing values, and time series predictions, with the goal of developing interpretable and accurate models to assist with clinical decision-making. As I approach graduation in summer 2025, I am eager to apply my expertise in machine learning and data analysis to industry, contributing to the design of human-centered AI systems that create meaningful real-world impact.
+I am a postdoctoral researcher at MIT and the Broad Institute, working on reliable and trustworthy AI systems for healthcare and biomedical data. My research focuses on foundation model evaluation, multimodal and longitudinal health data, clinically grounded AI evaluation, and machine learning under missingness. I have worked on wearable foundation models, memorization and privacy risks in foundation models, interpretable machine learning, and large-scale health prediction systems. I completed my PhD in Computer Science at Chalmers University of Technology and have authored publications at venues including ICML, AISTATS, AAAI, and ML4H, including an ICML 2025 spotlight paper.
 
 

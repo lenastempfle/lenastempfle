@@ -54,9 +54,9 @@ education:
     institution: Massachusetts Institute of Technology (MIT)
     date_start: 2025-08-01
     summary: |
-    - Supervised by [Marzyeh Ghassemi](https://www.csail.mit.edu/person/marzyeh-ghassemi). 
-    - Research on foundation model evaluation, multimodal learning from longitudinal and wearable health data, and scalable AI methods for biomedical applications, with a focus on reliable and trustworthy AI, clinically grounded evaluation, and privacy and memorization risks in foundation models.
-    - I am happy to work with UROPs and other students, and I welcome interdisciplinary collaborations across computer science, law, medicine, and with different actors across the healthcare sector.   Please add a description or high-level outline of your project idea to your inquiry. 
+      -Supervised by [Marzyeh Ghassemi](https://www.csail.mit.edu/person/marzyeh-ghassemi). 
+      - Research on foundation model evaluation, multimodal learning from longitudinal and wearable health data, and scalable AI methods for biomedical applications, with a focus on reliable and trustworthy AI, clinically grounded evaluation, and privacy and memorization risks in foundation models.
+      - I am happy to work with UROPs and other students, and I welcome interdisciplinary collaborations across computer science, law, medicine, and with different actors across the healthcare sector.   Please add a description or high-level outline of your project idea to your inquiry. 
 
   - area: PhD Candidate in Machine Learning
     institution: Chalmers University of Technology

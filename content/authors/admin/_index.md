@@ -62,7 +62,7 @@ education:
     institution: Chalmers University of Technology
     date_start: 2020-08-01
     date_end: 2025-01-31
-    summary:
+    summary: |
       - Supervised by [Fredrik D. Johansson](https://www.fredjo.com/) and [Devdatt Dubashi](https://sites.google.com/view/devdattdubhashi/home). 
       - Presented several papers at conferences such as ICML, AISTATS, AAAI, and ML4H, with contributions published in two Alzheimer's disease research journals, while leading multiple research initiatives in collaboration with academic and healthcare partners, resulting in eight peer-reviewed publications in top conference proceedings and journals.
       - Supervised several master's thesis projects, guiding students through academic research and industry collaborations.

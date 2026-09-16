@@ -1,9 +1,6 @@
 ---
 title: "An Investigation of Memorization Risk in Healthcare Foundation Models"
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - Sana Tonekaboni
   - Lena Stempfle

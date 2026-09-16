@@ -1,5 +1,5 @@
 ---
-title: "Predicting progression and cognitive decline in amyloid-positive patients with Alzheimer's disease"
+title: "An Investigation of Memorization Risk in Healthcare Foundation Models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -43,6 +43,17 @@ sections:
     content:
       title: 📣 Recent News
       text: |
+    text: |
+  - **[May 2026]** We released a preprint on [Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM](https://arxiv.org/abs/2604.25119). The work was presented at the AI4Good Workshop at ICML 2026.
+  
+  - **[June 2026]** We released a preprint on [Protecting Patient Privacy in Clinical Foundation Models: Technical and Legal Perspectives](https://arxiv.org/abs/2608.07705).
+  
+  - **[July 2026]** Our paper [Clinically Grounded Privacy Evaluation of Medical LMs](https://arxiv.org/abs/2606.09590) was accepted to EMNLP 2026.
+  
+  - **[August 2026]** I joined the organizing team of the NeurIPS 2026 workshop [Privacy in the Era of Large Opaque Models](https://neurips-workshop2026.github.io/foundation_model_agentic_privacy/).
+  
+  - **[September 2026]** Our paper *Who Said LLMs Are Better? The Missing Human Baseline and Judge* was accepted to Eval4SD and LUHME, with oral presentations at both workshops.
+        - **[July 2026]** Accepted paper to ENMLP on [Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM](https://arxiv.org/abs/2604.25119).
         - **[Jun 2026]** I am giving a talk at KTH on Causal AI for Healthcare.
         - **[Mai 2026]** We released a preprint on [Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM](https://arxiv.org/abs/2604.25119).
         - **[Dec 2025]** I am traveling to NeurIPS in San Diego.

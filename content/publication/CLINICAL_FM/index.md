@@ -28,25 +28,26 @@ publishDate: 2021-09-06
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Alzheimer's Research and Therapy*
+publication: In *Advances in Neural Information Processing Systems 38*
 publication_short: ''
 
 abstract: |
-    Background:
-    In Alzheimer’s disease, amyloid-β (Aβ) peptides aggregate in the lowering CSF amyloid levels - a key pathological hallmark of the disease. However, lowered CSF amyloid levels may also be present in cognitively unimpaired elderly individuals. Therefore, it is of great value to explain the variance in disease progression among patients with Aβ pathology.
-    Methods:
-    A cohort of n=2293 participants, of whom n=749 were Aβ positive, was selected from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database to study heterogeneity in disease progression for individuals with Aβ pathology. The analysis used baseline clinical variables including demographics, genetic markers, and neuropsychological data to predict how the cognitive ability and AD diagnosis of subjects progressed using statistical models and machine learning. Due to the relatively low prevalence of Aβ pathology, models fit only to Aβ-positive subjects were compared to models fit to an extended cohort including subjects without established Aβ pathology, adjusting for covariate differences between the cohorts.
-
-    Results:
-    Aβ pathology status was determined based on the A β42/A β40 ratio. The best predictive model of change in cognitive test scores for Aβ-positive subjects at the 2-year follow-up achieved an R2 score of 0.388 while the best model predicting adverse changes in diagnosis achieved a weighted F1 score of 0.791. A β-positive subjects declined faster on average than those without Aβ pathology, but the specific level of CSF Aβ was not predictive of progression rate. When predicting cognitive score change 4 years after baseline, the best model achieved an R2 score of 0.325 and it was found that fitting models to the extended cohort improved performance. Moreover, using all clinical variables outperformed the best model based only on a suite of cognitive test scores which achieved an R2 score of 0.228.
-
-    Conclusion:
-    Our analysis shows that CSF levels of Aβ are not strong predictors of the rate of cognitive decline in Aβ-positive subjects when adjusting for other variables. Baseline assessments of cognitive function accounts for the majority of variance explained in the prediction of 2-year decline but is insufficient for achieving optimal results in longer-term predictions. Predicting changes both in cognitive test scores and in diagnosis provides multiple perspectives of the progression of potential AD subjects.
+    Foundation models trained on large-scale de-identified electronic health records
+(EHRs) hold promise for clinical applications. However, their capacity to memorize
+patient information raises important privacy concerns. In this work, we introduce
+a suite of black-box evaluation tests to assess privacy-related memorization risks
+in foundation models trained on structured EHR data. Our framework includes
+methods for probing memorization at both the embedding and generative levels,
+and aims to distinguish between model generalization and harmful memorization in
+clinically relevant settings. We contextualize memorization in terms of its potential
+to compromise patient privacy, particularly for vulnerable subgroups. We validate
+our approach on a publicly available EHR foundation model and release an open-
+source toolkit to facilitate reproducible and collaborative privacy assessments in
+healthcare AI.
 
 
 # Summary. An optional shortened abstract.
 summary: | 
-    CSF Aβ levels alone are not strong predictors of cognitive decline in Aβ-positive individuals, but baseline cognitive assessments explain most of the variance in short-term (2-year) predictions. Including additional clinical variables and extending the cohort to Aβ-negative individuals improves model performance, highlighting the complexity of Alzheimer’s disease progression.
 
 #tags:
 #  - Large Language Models
@@ -59,8 +60,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://alzres.biomedcentral.com/articles/10.1186/s13195-021-00886-5'
-url_code: 'https://github.com/Healthy-AI/alzheimers-progression'
+url_pdf: 'https://www.proceedings.com/content/085/085713-0353open.pdf'
+url_code: 'https://github.com/lenastempfle/EHR-FM_memorization'
 url_dataset: ''
 url_poster: ''
 url_project: ''

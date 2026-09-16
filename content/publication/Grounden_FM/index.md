@@ -30,7 +30,7 @@ publishDate: 2026-09-09
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *EMNLP*
+publication: In *EMNLP 2026*
 publication_short: ''
 
 abstract: | 
